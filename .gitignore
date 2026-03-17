@@ -1,0 +1,8 @@
+node_modules/
+frontend/node_modules/
+.env
+.DS_Store
+build/
+frontend/build/
+Backend/CryptoPay.Api/bin/
+Backend/CryptoPay.Api/obj/
